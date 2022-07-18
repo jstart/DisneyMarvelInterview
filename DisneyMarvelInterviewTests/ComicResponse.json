@@ -1,0 +1,178 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2022 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2022 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2022 MARVEL</a>",
+  "etag": "0edee4af62dfb2d180e36cb7e032a304292851a2",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 1,
+    "count": 1,
+    "results": [
+      {
+        "id": 52564,
+        "digitalId": 41848,
+        "title": "Spider-Man/Deadpool (2016) #6",
+        "issueNumber": 6,
+        "variantDescription": "",
+        "description": "Deadpool goes Hollywood! See the M w/the M on the set of his own MOVIE! And he brings his pal Spidey along, as he has lots of experience selling out! All-Star Special Issue-written by Scott Aukerman of TV's Comedy Bang Bang!",
+        "modified": "2016-06-24T10:02:59-0400",
+        "isbn": "",
+        "upc": "75960608254400611",
+        "diamondCode": "APR160938",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Deadpool goes Hollywood! See the M w/the M on the set of his own MOVIE! And he brings his pal Spidey along, as he has lots of experience selling out! All-Star Special Issue—written by Scott Aukerman of TV’s Comedy Bang Bang!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52564",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52564/spider-mandeadpool_2016_6?utm_campaign=apiRef&utm_source=19e5c96687da396a9aa54590cf16c644"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Spider-Man-Deadpool-6/digital-comic/41848?utm_campaign=apiRef&utm_source=19e5c96687da396a9aa54590cf16c644"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=41848&utm_campaign=apiRef&utm_source=19e5c96687da396a9aa54590cf16c644"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/41848?utm_campaign=apiRef&utm_source=19e5c96687da396a9aa54590cf16c644"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19679",
+          "name": "Spider-Man/Deadpool (2016 - 2019)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/59554",
+            "name": "Spider-Man/Deadpool (2016) #6 (Kubert Captain America 75th Anniversary Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-06-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-06-15T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2017-01-02T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2016-06-29T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/576d3ce92b113",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/576d3ce92b113",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52564/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12831",
+              "name": "Scott Aukerman",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/665",
+              "name": "Reilly Brown",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+              "name": "Ed Mcguinness",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11309",
+              "name": "Mike Del Mundo",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52564/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+              "name": "Deadpool"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man (Peter Parker)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52564/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116705",
+              "name": "cover from Spider-Man/Deadpool (2015) #6",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116706",
+              "name": "story from Spider-Man/Deadpool (2015) #6",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52564/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  DisneyMarvelInterview
+
+  Created by Chris Truman on 7/15/22.
+  
+*/
+
+"comics_title" = "Comics";
+"enter_comic_id" = "Enter Comic ID";
+"add" = "Add";
+"loading" = "Loading";
+"can_not_fetch_comics" = "Could not fetch comics";
+"ok" = "Ok";
+"published_prefix" = "Published: ";
+"view_details" = "View Details";
+"excelsior" = "Excelsior";
