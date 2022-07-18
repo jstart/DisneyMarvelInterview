@@ -133,7 +133,7 @@
 			children = (
 				9DE4BCCD287FC5DF003077F2 /* Utilities.swift */,
 				9DE4BCCF287FC5DF003077F2 /* Network */,
-				9DE4BCDC287FC5DF003077F2 /* Comic LIst */,
+				9DE4BCDC287FC5DF003077F2 /* Comic List */,
 				9DE4BCD4287FC5DF003077F2 /* Comic Detail */,
 				9DE4BCD3287FC5DF003077F2 /* Assets.xcassets */,
 				9DE4BCDB287FC5DF003077F2 /* Info.plist */,
@@ -172,14 +172,14 @@
 			path = "Comic Detail";
 			sourceTree = "<group>";
 		};
-		9DE4BCDC287FC5DF003077F2 /* Comic LIst */ = {
+		9DE4BCDC287FC5DF003077F2 /* Comic List */ = {
 			isa = PBXGroup;
 			children = (
 				9DE4BCDD287FC5DF003077F2 /* ComicTableViewCell.swift */,
 				9DE4BCDE287FC5DF003077F2 /* ComicTableViewController.swift */,
 				9D56910D2884E9D100186A24 /* ComicTableViewModel.swift */,
 			);
-			path = "Comic LIst";
+			path = "Comic List";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
